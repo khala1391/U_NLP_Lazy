@@ -1,4 +1,4 @@
 /gitignore
 /.ipynb_checkpoints
-/03Vector/GoogleNews-vectors-negative300.bin
-/03Vector/GoogleNews-vectors-negative300.gz
+03Vector/GoogleNews-vectors-negative300.bin
+03Vector/GoogleNews-vectors-negative300.bin.gz
